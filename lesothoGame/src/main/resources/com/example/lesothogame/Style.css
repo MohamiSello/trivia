@@ -1,0 +1,15 @@
+.root {
+    -fx-background-color: #4ccd99;
+    -fx-text-fill: red;
+    -fx-font-size: 16;
+}
+.button{
+    -fx-background-color: #b80000;
+    -fx-text-fill: #4ccd99;
+    -fx-font-size: 19;
+}
+.button: hover{
+    -fx-background-color: #820300;
+    -fx-text-fill: #c21292;
+
+}
